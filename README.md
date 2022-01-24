@@ -1,0 +1,1 @@
+Proof of concept code to generate signed URLs on Google Cloud Storage with a transaction password to reduce the risk of URL exposure.
